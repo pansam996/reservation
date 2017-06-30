@@ -280,7 +280,7 @@
             ?>
         </div>
         <div class="bottom" align="right">
-            &copy;right by Kai-Lin Zhang
+            &copy;right by pansam996
         </div>
     </body>
 </html>
