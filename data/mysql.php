@@ -9,6 +9,7 @@ $mr=mysql_result;
 $mq=mysql_query;
 $mnr=mysql_num_rows;
 $mfa=mysql_fetch_array;
+/*---------------------新增訂單:Group 2---------------------------------*/
 if($_GET[m]==1)
 {
 	$num=mktime(date("H"),date("i"),date("s"),date("n"),date("j"),date("Y"));
@@ -25,3 +26,4 @@ if($_GET[m]==1)
     </script>
 	<?
 }
+/*---------------------------------------------------------------*/
